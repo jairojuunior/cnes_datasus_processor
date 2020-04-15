@@ -20,3 +20,7 @@ This data pipeline was tested only with files from January 2019 to now (March 20
 
 ---
 
+## Where can I see exported data?
+
+I update this data on Kaggle monthly. Get it: https://www.kaggle.com/jairofreitas/brazilian-universal-health-care-data
+
