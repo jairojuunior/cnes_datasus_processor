@@ -7,7 +7,7 @@ THE CNES Datasus Processor is a suite of scritps to fetch and pre-process data o
 2. Unzip the file into a temporary folder (both the file and the folder are deleted at the end)
 3. Import files into Pandas Dataframes
 4. Merge Dataframes with respect to business rules
-5. Export files to <YYYYMM>_output (where <YYYYMM> is the date of the file)
+5. Export files to \<YYYYMM\>_output (where \<YYYYMM\> is the date of the file)
   
   ## How to run it?
   
