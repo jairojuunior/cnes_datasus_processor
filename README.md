@@ -7,7 +7,7 @@ THE CNES Datasus Processor is a suite of scritps to fetch and pre-process data o
 2. Unzip the file into a temporary folder (both the file and the folder are deleted at the end)
 3. Import files into Pandas Dataframes
 4. Merge Dataframes with respect to business rules
-5. Export files to <YYYYMM>_output (where <YYYYMM> is the date of the file)
+5. Export files to \<YYYYMM\>_output (where \<YYYYMM\> is the date of the file)
   
   ## How to run it?
   
@@ -19,4 +19,8 @@ THE CNES Datasus Processor is a suite of scritps to fetch and pre-process data o
 This data pipeline was tested only with files from January 2019 to now (March 2020). It might not work on previous data.
 
 ---
+
+## Where can I see exported data?
+
+I update this data on Kaggle monthly. Get it: https://www.kaggle.com/jairofreitas/brazilian-universal-health-care-data
 
